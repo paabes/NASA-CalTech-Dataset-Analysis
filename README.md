@@ -1,7 +1,5 @@
 # Stats-Prob
 
-student name - Papuna Abesadze
-code - 184025IVSB
 
 ***************
 
